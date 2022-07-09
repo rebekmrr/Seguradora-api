@@ -13,6 +13,8 @@ const routes: Routes = [
   {path: 'home', component: HomeComponent},
   {path: 'assistencia', component: AssistenciaComponent},
   {path: 'fatura', component: FaturaComponent},
+  {path: 'portador/cadastrar/:id', component: CadastrarPortadorComponent},
+
 
 
 
